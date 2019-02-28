@@ -10,7 +10,7 @@ self.init = function() {
 
 }
 
-self.initPosition = function() {
+window.onload = function() {
     var titleHeight = $("h1").outerHeight(true);
     var instImageHeight = $(".groundswell_inst").find("img")[0].clientHeight;
     $(".groundswell_inst").css({ "top": titleHeight });
@@ -19,5 +19,3 @@ self.initPosition = function() {
     var albumImageHeight = $(".groundswell_album").find("img")[0].clientHeight;
     $("#credits").css({ "top": titleHeight + instImageHeight + albumImageHeight });
 }
-
-self.main();
