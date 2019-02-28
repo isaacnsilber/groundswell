@@ -11,18 +11,13 @@ self.init = function() {
 }
 
 self.initPosition = function() {
-    var coverImageHeight = $("#groundswell")[0].clientHeight;
-    var currentTopMargin = parseInt($("#anotherLayer").css("top"), 10);
-    //$("#anotherLayer").css({ "top": coverImageHeight * 6 / 10 + currentTopMargin });
-
+    var titleHeight = $("h1").outerHeight(true);
     var instImageHeight = $(".groundswell_inst").find("img")[0].clientHeight;
-    var currentTopMargin = parseInt($(".groundswell_album").css("top"), 10);
-    $(".groundswell_album").css({ "top": currentTopMargin + instImageHeight });
-
+    $(".groundswell_inst").css({ "top": titleHeight });
+    $(".groundswell_album").css({ "top": titleHeight + instImageHeight });
 
     var albumImageHeight = $(".groundswell_album").find("img")[0].clientHeight;
-    $("#credits").css({ "top": currentTopMargin + instImageHeight + albumImageHeight });
-
+    $("#credits").css({ "top": titleHeight + instImageHeight + albumImageHeight });
 }
 
 self.main();
