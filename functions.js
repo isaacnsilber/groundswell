@@ -11,6 +11,8 @@ self.init = function() {
 }
 
 window.onload = function() {
+    $("img").show();
+
     var titleHeight = $("h1").outerHeight(true);
     var instImageHeight = $(".groundswell_inst").find("img")[0].clientHeight;
     $(".groundswell_inst").css({ "top": titleHeight });
