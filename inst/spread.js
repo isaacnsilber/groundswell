@@ -55,7 +55,7 @@ https://c2.staticflickr.com/8/7887/39911396103_b7f88ecd88_n.jpg,http://www3.gett
 https://c1.staticflickr.com/5/4859/39911387813_c6a8ddbc32_n.jpg,http://teachingamericanhistory.org/library/document/niagara-movement-speech/ \
 https://c1.staticflickr.com/5/4876/33000752768_29e6c33e26_n.jpg,https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D355D423B9C27607973CC02743FCC6D7/S0021875815000055a.pdf/john-brown-s-spirit-the-abolitionist-aesthetic-of-emancipatory-martyrdom-in-early-antilynching-protest-literature.pdf \
 https://c2.staticflickr.com/8/7927/31943869217_cfda687a20_n.jpg,https://terreyrocoreograficoblog.files.wordpress.com/2016/10/singularities-dance-in-the-age-of-performance_andre-lepecki1.pdf \
-https://c2.staticflickr.com/8/7853/31943867367_6c65eea93e_n.jpg,https://www.youtube.com/watch?v=I6b5N_u7Ebs \
+https://c2.staticflickr.com/8/7853/31943867367_6c65eea93e_n.jpg,https://youtu.be/I6b5N_u7Ebs?t=4904 \
 https://c1.staticflickr.com/5/4850/46833326682_82f0f178f7_n.jpg,https://www.youtube.com/watch?v=ZxZir6POGb0 \
 https://c1.staticflickr.com/5/4883/45970615585_e9791d61c9_n.jpg,https://collabscoopscoalitions.files.wordpress.com/2018/04/hamacher_afformative-strike-benjamins-critique-of-violence.pdf \
 https://c2.staticflickr.com/8/7902/31943861797_a0c5ee3a95_n.jpg,http://cscs.res.in/dataarchive/textfiles/textfile.2010-11-02.7672177498/file \
