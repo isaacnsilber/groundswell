@@ -24,7 +24,7 @@ https://c2.staticflickr.com/8/7824/46885324501_968f419739_n.jpg,https://www.yout
 https://c2.staticflickr.com/8/7809/33009955788_2bc945be59_n.jpg,https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/1/2296/files/2017/09/Paul-Gilroy-The-Black-Atlantic-Chapter-3-11299p9.pdf \
 https://c1.staticflickr.com/5/4887/45970629915_12e80fe419_n.jpg,https://incivility.org/about/ \
 https://c2.staticflickr.com/8/7817/46160257604_1b02bf8c2d_n.jpg,https://www.victoria-miro.com/video/38/ \
-https://c2.staticflickr.com/8/7906/46833305902_ea6d42b905_n.jpg,https://www.youtube.com/watch?v=CIKeZgC8lQ4 \
+https://c2.staticflickr.com/8/7906/46833305902_ea6d42b905_n.jpg,https://www.youtube.com/channel/UCwlldaZuDFGeZ5QweLtn3jQ \
 https://www.flickr.com/photos/167834894@N07/33009948278/sizes/n/,https://en.wikipedia.org/wiki/Whiteness_studies \
 https://c2.staticflickr.com/8/7808/33009989708_4304202ce1_n.jpg,http://www.sundresspublications.com/agape/obsidianblues.pdf \
 https://c2.staticflickr.com/8/7909/31943868397_904193da43_n.jpg,https://rackedanddispatched.noblogs.org/files/2017/01/Afro-pessimism2_imposed.pdf \
